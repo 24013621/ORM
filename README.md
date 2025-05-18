@@ -45,7 +45,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![alt text](<jaseer/Screenshot 2025-05-15 233817.png>)
+![alt text](jaseer/orm.png)
 
 
 ## RESULT
